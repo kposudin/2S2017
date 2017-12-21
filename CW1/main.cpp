@@ -1,4 +1,10 @@
 
+#include <iostream>
+#include "CClass.h"
+
+
+using namespace std;
+
 /*class Triad{
     int *a;
     int *b;
